@@ -1,0 +1,6 @@
+@CongestionTaxCalculator.Api_HostAddress = http://localhost:5231
+
+GET {{CongestionTaxCalculator.Api_HostAddress}}/CongestionTax/TaxCalculator
+Accept: application/json
+
+###

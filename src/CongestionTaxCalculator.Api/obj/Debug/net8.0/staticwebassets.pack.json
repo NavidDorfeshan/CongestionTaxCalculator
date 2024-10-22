@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\Projects\\CongestionTaxCalculator\\CongestionTaxCalculator\\src\\CongestionTaxCalculator.Api\\wwwroot\\api\\specification.json",
+      "PackagePath": "staticwebassets\\api\\specification.json"
+    },
+    {
+      "Id": "E:\\Projects\\Projects\\CongestionTaxCalculator\\CongestionTaxCalculator\\src\\CongestionTaxCalculator.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CongestionTaxCalculator.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CongestionTaxCalculator.Api.props",
+      "PackagePath": "build\\CongestionTaxCalculator.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CongestionTaxCalculator.Api.props",
+      "PackagePath": "buildMultiTargeting\\CongestionTaxCalculator.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CongestionTaxCalculator.Api.props",
+      "PackagePath": "buildTransitive\\CongestionTaxCalculator.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

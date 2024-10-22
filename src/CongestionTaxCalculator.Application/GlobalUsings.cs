@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.Reflection;
+global using CongestionTaxCalculator.Application.Common.Behaviours;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Linq.Expressions;
+global using System.Diagnostics;
+global using Microsoft.Extensions.Logging;
+global using MediatR.Pipeline;
+global using CongestionTaxCalculator.Application.Common.Interfaces.IServices;

@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<Compile Remove="Data\SQLite\**" />
+		<EmbeddedResource Remove="Data\SQLite\**" />
+		<None Remove="Data\SQLite\**" />
+	</ItemGroup>
+	<!--#endif-->
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.10" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
+		<!--#if (!UseApiOnly)-->
+		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.10" />
+		<!--#endif-->
+		<!--#if (UseSQLite)-->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.10" />
+		<!--#endif-->
+		<!--#if (UseLocalDB)-->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+		<!--#endif-->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.10" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.10">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\CongestionTaxCalculator.Application\CongestionTaxCalculator.Application.csproj" />
+	  <ProjectReference Include="..\CongestionTaxCalculator.Domain\CongestionTaxCalculator.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

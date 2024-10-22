@@ -1,0 +1,15 @@
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\bin\Debug\net8.0\CongestionTaxCalculator.Application.deps.json
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\bin\Debug\net8.0\CongestionTaxCalculator.Application.dll
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\bin\Debug\net8.0\CongestionTaxCalculator.Application.pdb
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\bin\Debug\net8.0\CongestionTaxCalculator.Domain.dll
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\bin\Debug\net8.0\CongestionTaxCalculator.Domain.pdb
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.csproj.AssemblyReference.cache
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.AssemblyInfoInputs.cache
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.AssemblyInfo.cs
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\Congesti.5F25E8C3.Up2Date
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.dll
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\refint\CongestionTaxCalculator.Application.dll
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\CongestionTaxCalculator.Application.pdb
+E:\Projects\Projects\CongestionTaxCalculator\CongestionTaxCalculator\src\CongestionTaxCalculator.Application\obj\Debug\net8.0\ref\CongestionTaxCalculator.Application.dll

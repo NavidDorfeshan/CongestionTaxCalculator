@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/HNMBEA41fY1UF3V2UATNLzDLkUI1VjVUykslgqVQ3eCnhC4PIVnmu5uTMD+0rxe7gcV7Ykxvl39+vuIX2liQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Projects\\CongestionTaxCalculator\\CongestionTaxCalculator\\src\\CongestionTaxCalculator.Domain\\CongestionTaxCalculator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Navid.Dorfeshan\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Navid.Dorfeshan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Navid.Dorfeshan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

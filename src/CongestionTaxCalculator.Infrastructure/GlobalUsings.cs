@@ -1,0 +1,16 @@
+﻿global using CongestionTaxCalculator.Domain.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using System.Reflection;
+global using CongestionTaxCalculator.Application.Common.Interfaces;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.Extensions.DependencyInjection;
+global using MediatR;
+global using Microsoft.EntityFrameworkCore.Diagnostics;
+global using Ardalis.GuardClauses;
+global using CongestionTaxCalculator.Infrastructure.Data;
+global using CongestionTaxCalculator.Infrastructure.Data.Interceptors;
+global using Microsoft.Extensions.Configuration;
+global using System.Linq.Expressions;
+global using CongestionTaxCalculator.Application.Common.Interfaces.IServices;
+global using CongestionTaxCalculator.Infrastructure.Service;
